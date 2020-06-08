@@ -9,6 +9,6 @@ public class SimpleCal {
         float num1 = sc.nextFloat();
         System.out.println("Enter a numeric value");
         float num2 = sc.nextFloat();
-        System.out.println(String.valueOf(num1/num2));
+        System.out.println("The answer is " + String.valueOf(num1/num2));
         }
     }
