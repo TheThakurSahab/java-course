@@ -2,7 +2,7 @@ package Basics;
 
 public class Exercise10 {
     public static void main(String[] args) {
-        String taste = "way too hot";
+        String taste = "just right";
         int tempAdjustment = switch(taste) {
             case "too cold" ->    1;
             case "way too hot" -> -2;
